@@ -9,3 +9,15 @@
   - double
   - char
   - boolean
+
+## Day 2 : Operators
+- Arithmetic Operator:
+  - +, -, *, /, %
+- Relational/Comparison Operator:
+  - <, >, <=, >=, ==
+- Assignment Operator:
+  - =, +=, -=, *=, /=, %=
+- Logical Operators:
+  - AND (&&), OR (||), NOT (!)
+- Increment/Decrement Operator:
+  - ++, --
