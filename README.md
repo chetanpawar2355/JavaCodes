@@ -21,3 +21,20 @@
   - AND (&&), OR (||), NOT (!)
 - Increment/Decrement Operator:
   - ++, --
+
+## Day 3 : String
+### What is String?
+A String is a sequence of characters. Strings are immutable.
+### String Methods
+- name.length()
+- name.toLowerCase()
+- name.toUpperCase()
+- name.trim()
+- name.substring(start, end)
+- name.replace(old, new)
+- name.startsWith(string)
+- name.endsWith(string)
+- name.charAt(int index)
+- name.indexOf(string, int index)
+- name.equals(string)
+- name.equalsIgnoreCase(string)
