@@ -38,3 +38,10 @@ A String is a sequence of characters. Strings are immutable.
 - name.indexOf(string, int index)
 - name.equals(string)
 - name.equalsIgnoreCase(string)
+
+## Day 4 : Conditional Statement
+### if else Statement
+This is a bi-directional conditional control statement. This checks the condition whether it is true(if) or it is false(else).
+### switch Statement
+Switch Statement is used to when we have to make a choice between number of alternatives for a given variable.
+It is a alternative of if-else Statement.
