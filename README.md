@@ -44,4 +44,4 @@ A String is a sequence of characters. Strings are immutable.
 This is a bi-directional conditional control statement. This checks the condition whether it is true(if) or it is false(else).
 ### switch Statement
 Switch Statement is used to when we have to make a choice between number of alternatives for a given variable.
-It is a alternative of if-else Statement.
+It is an alternative of if-else Statement.
