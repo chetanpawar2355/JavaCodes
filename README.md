@@ -45,3 +45,11 @@ This is a bi-directional conditional control statement. This checks the conditio
 ### switch Statement
 Switch Statement is used to when we have to make a choice between number of alternatives for a given variable.
 It is an alternative of if-else Statement.
+
+## Day 5 : Looping Statement
+### while loop
+Repeats a block of code as long as a given condition is true.
+### do while loop
+Executes a block of code once, then repeats it as long as the condition is true.
+### for loop
+Repeats a block of code a specific number of times, using an initializer, condition, and increment/decrement.
