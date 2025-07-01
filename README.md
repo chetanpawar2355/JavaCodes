@@ -57,3 +57,6 @@ Repeats a block of code a specific number of times, using an initializer, condit
 ## Day 6 : Arrays
 Array is a collection of Similar types of data.
 Index = 0 to n-1
+
+## Day 7 : Methods
+In Java, a method is a block of code that performs a specific task.
