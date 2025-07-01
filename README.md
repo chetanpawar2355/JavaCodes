@@ -53,3 +53,7 @@ Repeats a block of code as long as a given condition is true.
 Executes a block of code once, then repeats it as long as the condition is true.
 ### for loop
 Repeats a block of code a specific number of times, using an initializer, condition, and increment/decrement.
+
+## Day 6 : Arrays
+Array is a collection of Similar types of data.
+Index = 0 to n-1
