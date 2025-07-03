@@ -63,3 +63,6 @@ In Java, a method is a block of code that performs a specific task.
 
 ## Day 8 : Method Overloading
 Method Overloading allows us to define multiple methods with the same name but different parameters within a class.
+
+## Day 9 : Recursion
+Recursion is a programming technique where a function calls itself within its own definition to solve a problem.
