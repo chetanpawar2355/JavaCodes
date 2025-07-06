@@ -66,3 +66,16 @@ Method Overloading allows us to define multiple methods with the same name but d
 
 ## Day 9 : Recursion
 Recursion is a programming technique where a function calls itself within its own definition to solve a problem.
+
+## Day 10 : OOP in Java
+OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures or methods that perform operations on the data, while object-oriented programming is about creating objects that contain both data and methods.
+
+### Classes and Objects
+- Class : A Class is a user-defined blueprint or prototype from which objects are created.
+- Object : An object is an instance of a class.
+
+The core Principles, often called the "four pillars" of OOPs in Java, are:
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
