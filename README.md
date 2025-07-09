@@ -79,3 +79,10 @@ The core Principles, often called the "four pillars" of OOPs in Java, are:
 - Abstraction
 - Inheritance
 - Polymorphism
+
+## Day 11 : Getter And Setter
+The get method returns the variable value, and the set method sets the value.
+- declare class variables/attributes as private
+- provide public get and set methods to access and update the value of a private variable
+
+## Day 12 :
