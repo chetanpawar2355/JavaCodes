@@ -85,4 +85,5 @@ The get method returns the variable value, and the set method sets the value.
 - declare class variables/attributes as private
 - provide public get and set methods to access and update the value of a private variable
 
-## Day 12 :
+## Day 12 : Constructor Overloading
+Constructor overloading in Java is a feature that allows a class to have multiple constructors, each with a different parameter list (or "signature"). This provides flexibility in how objects of that class can be initialized.
