@@ -87,3 +87,10 @@ The get method returns the variable value, and the set method sets the value.
 
 ## Day 12 : Constructor Overloading
 Constructor overloading in Java is a feature that allows a class to have multiple constructors, each with a different parameter list (or "signature"). This provides flexibility in how objects of that class can be initialized.
+
+## Day 13 : Interface
+In Java, an interface is a blueprint of a class. It's a collection of abstract methods (methods without a body) and public static final constants.
+- Interface methods do not have a body - the body is provided by the "implement" class
+- On implementation of an interface, you must override all of its methods
+- Interface methods are by default abstract and public
+- Interface attributes are by default public, static and final
